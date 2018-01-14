@@ -1,0 +1,8 @@
+{
+  "name": "ipush",
+  "version": "1.0.0",
+  "description": "Cloud messaging platform.",
+  "main": "js/main.js",
+  "author": "Kevin He",
+  "license": "ISC"
+}
